@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TomohiroSakaguchi
 - 👀 I’m interested in Acoustics and Signal Processing
 - 🌱 I’m currently learning Julia
+- I'm enjoying notebook environment.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
